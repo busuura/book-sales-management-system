@@ -1,0 +1,45 @@
+C:\Users\Berat Avcı\source\repos\kitap satış takip sistemi--projesi\kitap satış takip sistemi--projesi\bin\Debug\kitap satış takip sistemi--projesi.exe.config
+C:\Users\Berat Avcı\source\repos\kitap satış takip sistemi--projesi\kitap satış takip sistemi--projesi\bin\Debug\kitap satış takip sistemi--projesi.exe
+C:\Users\Berat Avcı\source\repos\kitap satış takip sistemi--projesi\kitap satış takip sistemi--projesi\bin\Debug\kitap satış takip sistemi--projesi.pdb
+C:\Users\Berat Avcı\source\repos\kitap satış takip sistemi--projesi\kitap satış takip sistemi--projesi\obj\Debug\kitap satış takip sistemi--projesi.csproj.AssemblyReference.cache
+C:\Users\Berat Avcı\source\repos\kitap satış takip sistemi--projesi\kitap satış takip sistemi--projesi\obj\Debug\kitap_satış_takip_sistemi__projesi.Anasayfa.resources
+C:\Users\Berat Avcı\source\repos\kitap satış takip sistemi--projesi\kitap satış takip sistemi--projesi\obj\Debug\kitap_satış_takip_sistemi__projesi.Form1.resources
+C:\Users\Berat Avcı\source\repos\kitap satış takip sistemi--projesi\kitap satış takip sistemi--projesi\obj\Debug\kitap_satış_takip_sistemi__projesi.Kayıt_Formu.resources
+C:\Users\Berat Avcı\source\repos\kitap satış takip sistemi--projesi\kitap satış takip sistemi--projesi\obj\Debug\kitap_satış_takip_sistemi__projesi.kitap_işlemleri.resources
+C:\Users\Berat Avcı\source\repos\kitap satış takip sistemi--projesi\kitap satış takip sistemi--projesi\obj\Debug\kitap_satış_takip_sistemi__projesi.Müşteri_işlemleri.resources
+C:\Users\Berat Avcı\source\repos\kitap satış takip sistemi--projesi\kitap satış takip sistemi--projesi\obj\Debug\kitap_satış_takip_sistemi__projesi.Properties.Resources.resources
+C:\Users\Berat Avcı\source\repos\kitap satış takip sistemi--projesi\kitap satış takip sistemi--projesi\obj\Debug\kitap_satış_takip_sistemi__projesi.Satış.resources
+C:\Users\Berat Avcı\source\repos\kitap satış takip sistemi--projesi\kitap satış takip sistemi--projesi\obj\Debug\kitap satış takip sistemi--projesi.csproj.GenerateResource.cache
+C:\Users\Berat Avcı\source\repos\kitap satış takip sistemi--projesi\kitap satış takip sistemi--projesi\obj\Debug\kitap satış takip sistemi--projesi.csproj.CoreCompileInputs.cache
+C:\Users\Berat Avcı\source\repos\kitap satış takip sistemi--projesi\kitap satış takip sistemi--projesi\obj\Debug\kitap satış takip sistemi--projesi.exe
+C:\Users\Berat Avcı\source\repos\kitap satış takip sistemi--projesi\kitap satış takip sistemi--projesi\obj\Debug\kitap satış takip sistemi--projesi.pdb
+D:\Grup No7 - Büşra Avcı 2506022086\Grup No=7 Büşra Avcı 2506022086\kitap satış takip sistemi--projesi\bin\Debug\kitap satış takip sistemi--projesi.exe.config
+D:\Grup No7 - Büşra Avcı 2506022086\Grup No=7 Büşra Avcı 2506022086\kitap satış takip sistemi--projesi\bin\Debug\kitap satış takip sistemi--projesi.exe
+D:\Grup No7 - Büşra Avcı 2506022086\Grup No=7 Büşra Avcı 2506022086\kitap satış takip sistemi--projesi\bin\Debug\kitap satış takip sistemi--projesi.pdb
+D:\Grup No7 - Büşra Avcı 2506022086\Grup No=7 Büşra Avcı 2506022086\kitap satış takip sistemi--projesi\obj\Debug\kitap satış takip sistemi--projesi.csproj.AssemblyReference.cache
+D:\Grup No7 - Büşra Avcı 2506022086\Grup No=7 Büşra Avcı 2506022086\kitap satış takip sistemi--projesi\obj\Debug\kitap_satış_takip_sistemi__projesi.Anasayfa.resources
+D:\Grup No7 - Büşra Avcı 2506022086\Grup No=7 Büşra Avcı 2506022086\kitap satış takip sistemi--projesi\obj\Debug\kitap_satış_takip_sistemi__projesi.Form1.resources
+D:\Grup No7 - Büşra Avcı 2506022086\Grup No=7 Büşra Avcı 2506022086\kitap satış takip sistemi--projesi\obj\Debug\kitap_satış_takip_sistemi__projesi.Kayıt_Formu.resources
+D:\Grup No7 - Büşra Avcı 2506022086\Grup No=7 Büşra Avcı 2506022086\kitap satış takip sistemi--projesi\obj\Debug\kitap_satış_takip_sistemi__projesi.kitap_işlemleri.resources
+D:\Grup No7 - Büşra Avcı 2506022086\Grup No=7 Büşra Avcı 2506022086\kitap satış takip sistemi--projesi\obj\Debug\kitap_satış_takip_sistemi__projesi.Müşteri_işlemleri.resources
+D:\Grup No7 - Büşra Avcı 2506022086\Grup No=7 Büşra Avcı 2506022086\kitap satış takip sistemi--projesi\obj\Debug\kitap_satış_takip_sistemi__projesi.Properties.Resources.resources
+D:\Grup No7 - Büşra Avcı 2506022086\Grup No=7 Büşra Avcı 2506022086\kitap satış takip sistemi--projesi\obj\Debug\kitap_satış_takip_sistemi__projesi.Satış.resources
+D:\Grup No7 - Büşra Avcı 2506022086\Grup No=7 Büşra Avcı 2506022086\kitap satış takip sistemi--projesi\obj\Debug\kitap satış takip sistemi--projesi.csproj.GenerateResource.cache
+D:\Grup No7 - Büşra Avcı 2506022086\Grup No=7 Büşra Avcı 2506022086\kitap satış takip sistemi--projesi\obj\Debug\kitap satış takip sistemi--projesi.csproj.CoreCompileInputs.cache
+D:\Grup No7 - Büşra Avcı 2506022086\Grup No=7 Büşra Avcı 2506022086\kitap satış takip sistemi--projesi\obj\Debug\kitap satış takip sistemi--projesi.exe
+D:\Grup No7 - Büşra Avcı 2506022086\Grup No=7 Büşra Avcı 2506022086\kitap satış takip sistemi--projesi\obj\Debug\kitap satış takip sistemi--projesi.pdb
+C:\Users\avcbe\OneDrive\Masaüstü\Büşra\Grup No=7 Büşra Avcı 2506022086\kitap satış takip sistemi--projesi\bin\Debug\kitap satış takip sistemi--projesi.exe.config
+C:\Users\avcbe\OneDrive\Masaüstü\Büşra\Grup No=7 Büşra Avcı 2506022086\kitap satış takip sistemi--projesi\bin\Debug\kitap satış takip sistemi--projesi.exe
+C:\Users\avcbe\OneDrive\Masaüstü\Büşra\Grup No=7 Büşra Avcı 2506022086\kitap satış takip sistemi--projesi\bin\Debug\kitap satış takip sistemi--projesi.pdb
+C:\Users\avcbe\OneDrive\Masaüstü\Büşra\Grup No=7 Büşra Avcı 2506022086\kitap satış takip sistemi--projesi\obj\Debug\kitap satış takip sistemi--projesi.csproj.AssemblyReference.cache
+C:\Users\avcbe\OneDrive\Masaüstü\Büşra\Grup No=7 Büşra Avcı 2506022086\kitap satış takip sistemi--projesi\obj\Debug\kitap_satış_takip_sistemi__projesi.Anasayfa.resources
+C:\Users\avcbe\OneDrive\Masaüstü\Büşra\Grup No=7 Büşra Avcı 2506022086\kitap satış takip sistemi--projesi\obj\Debug\kitap_satış_takip_sistemi__projesi.Form1.resources
+C:\Users\avcbe\OneDrive\Masaüstü\Büşra\Grup No=7 Büşra Avcı 2506022086\kitap satış takip sistemi--projesi\obj\Debug\kitap_satış_takip_sistemi__projesi.Kayıt_Formu.resources
+C:\Users\avcbe\OneDrive\Masaüstü\Büşra\Grup No=7 Büşra Avcı 2506022086\kitap satış takip sistemi--projesi\obj\Debug\kitap_satış_takip_sistemi__projesi.kitap_işlemleri.resources
+C:\Users\avcbe\OneDrive\Masaüstü\Büşra\Grup No=7 Büşra Avcı 2506022086\kitap satış takip sistemi--projesi\obj\Debug\kitap_satış_takip_sistemi__projesi.Müşteri_işlemleri.resources
+C:\Users\avcbe\OneDrive\Masaüstü\Büşra\Grup No=7 Büşra Avcı 2506022086\kitap satış takip sistemi--projesi\obj\Debug\kitap_satış_takip_sistemi__projesi.Properties.Resources.resources
+C:\Users\avcbe\OneDrive\Masaüstü\Büşra\Grup No=7 Büşra Avcı 2506022086\kitap satış takip sistemi--projesi\obj\Debug\kitap_satış_takip_sistemi__projesi.Satış.resources
+C:\Users\avcbe\OneDrive\Masaüstü\Büşra\Grup No=7 Büşra Avcı 2506022086\kitap satış takip sistemi--projesi\obj\Debug\kitap satış takip sistemi--projesi.csproj.GenerateResource.cache
+C:\Users\avcbe\OneDrive\Masaüstü\Büşra\Grup No=7 Büşra Avcı 2506022086\kitap satış takip sistemi--projesi\obj\Debug\kitap satış takip sistemi--projesi.csproj.CoreCompileInputs.cache
+C:\Users\avcbe\OneDrive\Masaüstü\Büşra\Grup No=7 Büşra Avcı 2506022086\kitap satış takip sistemi--projesi\obj\Debug\kitap satış takip sistemi--projesi.exe
+C:\Users\avcbe\OneDrive\Masaüstü\Büşra\Grup No=7 Büşra Avcı 2506022086\kitap satış takip sistemi--projesi\obj\Debug\kitap satış takip sistemi--projesi.pdb
