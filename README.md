@@ -22,8 +22,3 @@ A desktop automation application developed using C# Windows Forms and MS SQL Ser
 
 ---
 
-## 🚀 Installation & Setup
-
-1. Clone or download the repository to your local machine:
-   ```bash
-   git clone [https://github.com/busraavci/kitap-satis-yonetim-sistemi.git](https://github.com/busraavci/kitap-satis-yonetim-sistemi.git)
