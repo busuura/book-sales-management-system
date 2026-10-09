@@ -8,7 +8,7 @@ A desktop automation application developed using C# Windows Forms and MS SQL Ser
 
 * **Programming Language:** C# (.NET Framework)
 * **User Interface:** Windows Forms (WinForms)
-* **Database:** MS SQL Server (`System.Data.SqlClient`)
+* **Database:** MS SQL Server 
 * **Database Architecture:** Relational Database & Custom SQL Queries
 
 ---
